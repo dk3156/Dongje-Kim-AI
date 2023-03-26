@@ -23,4 +23,5 @@ For more information, see Docker Desktop Subscription Service Agreement. We reco
 
 #Instruction for running docker container
 source : https://www.youtube.com/watch?v=pTFZFxd4hOI&t=1769s&ab_channel=ProgrammingwithMosh
-Screen shots of the terminal commands to run docker container are provided. (Docker.pdf)
+
+Watched the youtube tutorial and ran a docker image on terminal (hello-docker). Screenshots of the terminal commands are contained in docker-terminal.pdf
