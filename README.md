@@ -22,6 +22,7 @@ Note that Docker Desktop will not run if you do not agree to the terms. You can 
 For more information, see Docker Desktop Subscription Service Agreement. We recommend that you also read the FAQs.
 
 #Instruction for running docker container
+
 source : https://www.youtube.com/watch?v=pTFZFxd4hOI&t=1769s&ab_channel=ProgrammingwithMosh
 
-Watched the youtube tutorial and ran a docker image on terminal (hello-docker). Screenshots of the terminal commands are contained in docker-terminal.pdf
+I watched the youtube tutorial and ran a docker image on terminal named hello-docker. You can find screenshots of the terminal commands in docker-terminal.pdf
