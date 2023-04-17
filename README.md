@@ -7,5 +7,5 @@ Code for Task 2 is located at: opencv/object_detection.py
 Code for Task 3 is located at: opencv/object_tracking.py
 
 # Rendered Video
-Videos for Task 2 is located at: opencv/output/ball_output.avi \n
+Videos for Task 2 is located at: opencv/output/ball_output.avi </br>
 Videos for Task 3 is located at: opencv/output/twoballs_output.avi
