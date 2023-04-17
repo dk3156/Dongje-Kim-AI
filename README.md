@@ -1,4 +1,4 @@
-# Object Tracking Assignment, dk3156, Dongje Kim
+# Object Tracking Assignment
 
 # Task 2
 Code for Task 2 is located at: opencv/object_detection.py
