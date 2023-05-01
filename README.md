@@ -5,6 +5,8 @@
 
 Link to my Huggingface space:
 https://huggingface.co/spaces/dk3156/sentiment_analysis_app
+Link to my github repo:
+https://github.com/dk3156/sentiment_analysis_app
 
 </div>
 
