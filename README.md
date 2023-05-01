@@ -17,7 +17,7 @@ A research initiative founded by Jigsaw and Google (both a part of Alphabet) are
 
 If words that are associated with swearing, insults or profanity are present in a comment, it is likely that it will be classified as toxic, regardless of the tone or the intent of the author e.g. humorous/self-deprecating. This could present some biases towards already vulnerable minority groups.
 
-The purpose of the project is to deploy a streamlit application is to develp a Streamlit application that utilizes a multi-headed model for predicting tweet toxicity. This will involve leveraging the Hugging Face transformer library and fine-tuning the model on an existing dataset to enhance its ability to detect harmful content in tweets more quickly and efficiently.
+The purpose of the project is to deploy a streamlit application that utilizes a multi-headed model for predicting tweet toxicity. This will involve leveraging the Hugging Face transformer library and fine-tuning the model on an existing dataset to enhance its ability to detect harmful content in tweets more quickly and efficiently.
 
 The github repository provides the trained models & code to predict toxic comments on a Jigsaw challenge: Toxic comment classification.
 This is the part of Project Milestones for Artificial Intelligence course at NYU, Tandon School of Engineering.
