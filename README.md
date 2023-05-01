@@ -19,7 +19,8 @@ The purpose of the project is to deploy a streamlit application is to develp a S
 The github repository provides the trained models & code to predict toxic comments on a Jigsaw challenge: Toxic comment classification.
 This is the part of Project Milestones for Artificial Intelligence course at NYU, Tandon School of Engineering.
 
-The dataset used in this project can be found at: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge \\
+The dataset used in this project can be found at: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge 
+<br>
 The pretrained finetune model application can be viewed at: https://huggingface.co/dk3156/toxic_tweets_model
 
 ## WalkThrough
