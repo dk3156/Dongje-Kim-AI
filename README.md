@@ -80,6 +80,7 @@ https://sites.google.com/nyu.edu/sentimentanalysis/home
 ## Demo
 The following link is the tutorial video for demonstration purposes. 
 <br>
+https://youtu.be/DEza2H9qdpk
 
 
 
