@@ -68,7 +68,7 @@ Users are prompted to enter a text along with language of model of their choices
  Scores ranges from 0 to 1. Heavier scores will be displayed first.
 
 ## Documentation
-A detailed documentation for each part of the code is provided in the folder /Documentation
+A detailed documentation for each part of the code is provided in the folder /documentations
 - app.py 
 - finetune.py
 
