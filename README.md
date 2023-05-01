@@ -74,11 +74,13 @@ A detailed documentation for each part of the code is provided in the folder /do
 
 ## Google Site
 The following link connects to the landing site for the Huggingface streamlit app. Links to both my github repo and Huggingface are provided in the site.
---site link
+<br>
+https://sites.google.com/nyu.edu/sentimentanalysis/home
 
 ## Demo
 The following link is the tutorial video for demonstration purposes. 
---youtube link
+<br>
+
 
 
 
