@@ -82,6 +82,11 @@ The following link is the tutorial video for demonstration purposes.
 <br>
 https://youtu.be/DEza2H9qdpk
 
+## Performance Metrics
+F1 and Recall scores for the first five comments
+<br>
+<br>
+<img width="261" alt="metric5" src="https://user-images.githubusercontent.com/78196670/235417649-a6aca9c7-874d-4398-aadd-486777285207.png">
 
-[alt text](https://github.com/dk3156/Dongje-Kim-AI/blob/milestone4/metrics/metric5.png)
+
 
